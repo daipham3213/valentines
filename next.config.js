@@ -4,11 +4,11 @@
 const nextConfig = {
   output: 'export',
   images: {
-    
     formats:['image/webp']
   },
   optimizeFonts: false,
-  basePath: '/'
+  assetPrefix: process.env.ASSET_PREFIX,
+  basePath: process.env.BASE_PATH,
   // Optional: Change links `/me` -> `/me/` and emit `/me.html` -> `/me/index.html`
   // trailingSlash: true,
  

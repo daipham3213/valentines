@@ -2,7 +2,7 @@ import "./globals.css";
 
 
 export const metadata = {
-  title: "Valentines 2024",
+  title: "Valentines 2025",
   description: "Đại sent you a letter!",
   metadataBase: new URL('https://cuaa.fn.run.place'),
   openGraph: {
