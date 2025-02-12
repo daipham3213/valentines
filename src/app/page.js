@@ -53,7 +53,7 @@ export default function Home() {
           <br />
           <h4>Will you be my valentine?</h4>
           <br />
-          <h4>Love, Đại</h4>
+          <h4>Love, your Darling</h4>
           <div className='yesno'>
             <a 
               className='yes relative z-10'
